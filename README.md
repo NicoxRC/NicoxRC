@@ -1,6 +1,6 @@
 * 👋 hola, soy @nicoxrc
 * 👀 Estoy interesado en mostrar mis proyectos.
-* 👨‍🎓 Desarrolador Junior, experto en programacion.
+* 👨‍🎓 Desarrolador Junior, experto en programacion web.
 * 🧑‍💻 Apasionado de la programacion.
 * 🤯 Las tecnologias que uso son:
    * JavaScript.
